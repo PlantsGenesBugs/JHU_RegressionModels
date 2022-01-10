@@ -58,7 +58,6 @@ anova(fit3, fit4)
 summary(fit4)
 #Analysis of values shows that income is affected more in some majors than others when including gender as a interacting factor
 #interesting to note that the mean income for women who graduate with journalism as a major is no different to that received by men
-#the largest difference is seen in business studies, where the interaction of women and major causes a $10 5012 decrease in median income
 
 dance_save("~/Desktop/college_major_analysis.rds")
 
